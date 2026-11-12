@@ -1,0 +1,15 @@
+# .NET build-filer
+bin/
+obj/
+
+# Editor-inställningar
+.vs/
+.vscode/
+
+# Databasen genereras av skripten
+*.db
+*.db-journal
+
+# Systemfiler
+.DS_Store
+Thumbs.db

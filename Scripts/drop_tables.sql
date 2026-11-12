@@ -1,0 +1,9 @@
+PRAGMA foreign_keys = ON;
+
+DROP TABLE IF EXISTS PurchaseLines;
+DROP TABLE IF EXISTS RecipeIngredients;
+DROP TABLE IF EXISTS Purchases;
+DROP TABLE IF EXISTS Recipes;
+DROP TABLE IF EXISTS Ingredients;
+DROP TABLE IF EXISTS Products;
+DROP TABLE IF EXISTS Suppliers;
